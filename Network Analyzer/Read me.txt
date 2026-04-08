@@ -1,0 +1,38 @@
+# Network Analyzer
+
+**Network Analyzer** is a pre-simulation validation and analysis tool for power system models using RAW and DYR files.
+
+It is designed to help quickly understand, validate, and prepare large-scale power system data before simulation.
+
+---
+
+##  Features
+
+###  Data Parsing
+- Supports RAW and DYR files (version-independent)
+- Extracts complete network and dynamic data
+
+###  Analysis
+- Areas and zones overview
+- Generator classification and parameters
+- Network topology and connectivity mapping
+
+### Validation Network
+- Detects missing parameters
+- Identifies isolated/islanded buses
+- Flags invalid or missing dynamic models
+- Highlights inconsistencies in data
+
+###  Reporting
+- Structured text outputs
+- Area-wise and system-wide summaries
+
+---
+
+Network Analyzer acts as a **pre-simulation diagnostic layer**, ensuring your model is clean and reliable before running simulations.
+
+---
+
+##  Installation
+
+Download the installer from the Releases section and run:
