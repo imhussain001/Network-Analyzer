@@ -1,0 +1,52 @@
+## 🚀 Network Analyzer v1.0
+
+Initial release of **Network Analyzer**, a pre-simulation validation and analysis tool for power system models using RAW and DYR files.
+
+---
+
+## 🔍 Features
+
+- Parses RAW and DYR files (version-independent)
+- Provides structured insights into:
+  - Areas and zones
+  - Generator types and parameters
+  - Network topology and connectivity
+
+---
+
+## ⚡ Validation Engine
+
+- Detects missing parameters in network and dynamic data
+- Identifies isolated/islanded buses
+- Flags invalid or missing dynamic models
+- Highlights inconsistencies before simulation
+
+---
+
+## 📄 Output
+
+- Generates structured text reports
+- Area-wise and system-wide summaries
+
+---
+
+## 📦 Installation
+
+1. Download the installer below
+2. Run `NetworkAnalyzer_Setup.exe`
+3. Launch the application
+
+---
+
+## ⚠️ Notes
+
+- This is the first stable release
+- Feedback and suggestions are welcome
+
+---
+
+## 📬 Contact
+
+For access, feedback, or collaboration:
+- LinkedIn: [https://www.linkedin.com/in/hussain-tak-a1426a24b/]
+- Email: [ashutak46@gmail.com]
